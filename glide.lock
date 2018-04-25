@@ -1,0 +1,6 @@
+hash: f7dd29c5838aeec7bdf9dd06eb307f74cd84aaa5b4bee7c9854da21ace95e490
+updated: 2018-04-24T18:34:41.322956+09:00
+imports:
+- name: github.com/mitchellh/go-mruby
+  version: 8fb57ad89650eef30e72be20f980679d7aa1e90c
+testImports: []
